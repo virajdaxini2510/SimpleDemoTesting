@@ -10,10 +10,9 @@ namespace SimpleDemo
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("\n WElcome to Marwadi University");
             Console.ReadKey();
-
+            // Newly added line 
 
         }
     }
